@@ -3,6 +3,7 @@ layout: post
 title:  "Go Tribe!!!"
 date:   2016-07-31 21:39:43 -0400
 categories: blog
+background: "http://imgick.cleveland.com/home/cleve-media/pgmain/img/plain-dealer/photo/2014/02/-59c1df2608111170.jpg"
 ---
 
 
